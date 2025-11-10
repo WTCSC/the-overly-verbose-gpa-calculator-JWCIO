@@ -66,7 +66,7 @@ No external libraries are required; the program uses only built-in Python functi
 
 ## How to Run
 
-1. Save the program as `gpa_calculator.py`.
+1. Save the program as `gpa.py`.
 2. Open a terminal or command prompt.
 3. Run the following command:
 
